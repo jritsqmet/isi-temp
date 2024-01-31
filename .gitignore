@@ -1,0 +1,8 @@
+#Claves de acceso
+ACCESOS.txt
+
+#carpeta de configuración
+node_modules/
+
+#ambiente virtual
+venv/
